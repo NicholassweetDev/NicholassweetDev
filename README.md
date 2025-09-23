@@ -13,18 +13,19 @@
 - 👨‍💻 Driven by curiosity, I explore emerging technologies to enhance my skills and create innovative projects.  
 - ⚡ Fun fact: My first language was C.  
 
+---
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
 
 <p align="center">
-  <!-- ícones suportados pelo skillicons -->
-  <img src="https://skillicons.dev/icons?i=html,css,java,js,mysql,python,cpp,php,git&perline=6" alt="skills" />
-
-  <!-- fallbacks/badges para Trello, Kanban e ngrok (garante que apareçam) -->
+  <img src="https://skillicons.dev/icons?i=html,css,java,js,mysql,python,cpp,php,git&perline=6" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" height="36" alt="Trello" />
-  <img src="https://img.shields.io/badge/-Kanban-2e8b57?style=flat-square&logo=&logoColor=white" height="36" alt="Kanban" />
-  <img src="https://img.shields.io/badge/-ngrok-59C3FF?style=flat-square&logo=ngrok&logoColor=white" height="36" alt="ngrok" />
+  <img src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" height="36" />
+  <img src="https://img.shields.io/badge/-Kanban-2e8b57?style=flat-square&logoColor=white" height="36" />
+  <img src="https://img.shields.io/badge/-ngrok-59C3FF?style=flat-square&logo=ngrok&logoColor=white" height="36" />
 </p>
+
+---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 
@@ -32,6 +33,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nicholaszin&theme=dark&show_icons=true&hide_title=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholaszin&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
+
+---
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Contact Me
 
