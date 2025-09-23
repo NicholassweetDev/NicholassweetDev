@@ -18,7 +18,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,js,mysql,python,cpp,php,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,js,mysql,python,cpp,php,git,ts,figma,bash&perline=6" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" height="36" />
   <img src="https://img.shields.io/badge/-Kanban-2e8b57?style=flat-square&logoColor=white" height="36" />
