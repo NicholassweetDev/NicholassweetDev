@@ -16,9 +16,14 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,js,trello,kanban,mysql,ngrok,python,cpp,php,git&perline=6" />
-  </a>
+  <!-- ícones suportados pelo skillicons -->
+  <img src="https://skillicons.dev/icons?i=html,css,java,js,mysql,python,cpp,php,git&perline=6" alt="skills" />
+
+  <!-- fallbacks/badges para Trello, Kanban e ngrok (garante que apareçam) -->
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" height="36" alt="Trello" />
+  <img src="https://img.shields.io/badge/-Kanban-2e8b57?style=flat-square&logo=&logoColor=white" height="36" alt="Kanban" />
+  <img src="https://img.shields.io/badge/-ngrok-59C3FF?style=flat-square&logo=ngrok&logoColor=white" height="36" alt="ngrok" />
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
