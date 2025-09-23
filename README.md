@@ -9,15 +9,15 @@
 ## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I am currently studying computer science
-- 👨‍💻 Driven by curiosity, I explore emerging technologies to enhance my skills and create innovative projects.
-- ⚡ Fun fact: My first language was C.
+- 🔭 I am currently studying computer science  
+- 👨‍💻 Driven by curiosity, I explore emerging technologies to enhance my skills and create innovative projects.  
+- ⚡ Fun fact: My first language was C.  
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,materialui,figma,git,github,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,cpp,opencv,pandas,figma,git,github,vscode&perline=6" />
   </a>
 </p>
 
