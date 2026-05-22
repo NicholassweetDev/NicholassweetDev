@@ -1,21 +1,22 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nicholas Sweet</h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, eu sou Nicholas Sweet</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=450&lines=Back-End+Developer;Database+%26+API+%26+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=450&lines=Especialista+em+Automações;APIs+%26+Integrações;Segurança+%26+Tecnologia" alt="Typing SVG" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> About Me
+## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> Sobre Mim
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I am currently studying computer science  
-- 👨‍💻 Driven by curiosity, I explore emerging technologies to enhance my skills and create innovative projects.  
-- ⚡ Fun fact: My first language was C.  
+- 🔭 Atualmente curso Ciência da Computação  
+- 🤖 Focado em automações, integrações e desenvolvimento de soluções inteligentes  
+- 👨‍💻 Sempre explorando novas tecnologias para criar sistemas escaláveis e eficientes  
+- ⚡ Curiosidade: Minha primeira linguagem foi C  
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Habilidades
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,java,js,mysql,python,cpp,php,git,ts,figma,bash&perline=6" />
@@ -27,7 +28,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NicholassweetDev&theme=dark&show_icons=true&hide_title=true" alt="GitHub Stats"/>
@@ -36,7 +37,7 @@
 
 ---
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Contact Me
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicholassaulossweet/" target="_blank" title="LinkedIn">
