@@ -30,8 +30,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicholaszin&theme=dark&show_icons=true&hide_title=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholaszin&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NicholassweetDev&theme=dark&show_icons=true&hide_title=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholassweetDev&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
 
 ---
@@ -47,7 +47,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Nicholaszin" target="_blank" title="GitHub">
+  <a href="https://github.com/NicholassweetDev" target="_blank" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
 </p>
