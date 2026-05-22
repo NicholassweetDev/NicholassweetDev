@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, eu sou Nicholas Sweet</h1>
+<h1 align="center">Olá, eu sou Nicholas Sweet</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=450&lines=Especialista+em+Automações;APIs+%26+Integrações;Segurança+%26+Tecnologia" alt="Typing SVG" />
