@@ -28,6 +28,18 @@
 
 ---
 
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FkYjYyYjY2Y2Y2Y2Y2Y2Y2Y2Y2Y2Y2Y2Y2Y2Y2Y2Y2Y/l0ExdMHUDKqn3WRPy/giphy.gif" width="25"> Estatísticas / My Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NicholassweetDev&background=0d1117&border=30363d&fire=ff9f1c&ring=ff9f1c&currStreakLabel=ff9f1c&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholassweetDev&layout=compact&bg_color=0d1117&title_color=ff9f1c&text_color=ffffff&border_color=30363d&langs_count=6" alt="Top Languages" />
+</p>
+
+---
+
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Contato
 
 <p align="center">
