@@ -1,63 +1,76 @@
-<h1 align="center">Olá, eu sou Nicholas Sweet</h1>
+<h1 align="center">Nicholas Sweet dos Santos</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&pause=1000&width=450&lines=Especialista+em+Automações;APIs+%26+Integrações;Segurança+%26+Tecnologia" alt="Typing SVG" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## <img src="https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="25"> Sobre Mim
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 Atualmente curso Ciência da Computação  
-- 🤖 Focado em automações, integrações e desenvolvimento de soluções inteligentes  
-- 👨‍💻 Sempre explorando novas tecnologias para criar sistemas escaláveis e eficientes  
-- ⚡ Curiosidade: Minha primeira linguagem foi C  
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Habilidades
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,js,mysql,python,cpp,php,git,ts,figma,bash&perline=6" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" height="36" />
-  <img src="https://img.shields.io/badge/-Kanban-2e8b57?style=flat-square&logoColor=white" height="36" />
-  <img src="https://img.shields.io/badge/-ngrok-59C3FF?style=flat-square&logo=ngrok&logoColor=white" height="36" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF9F1C&center=true&vCenter=true&pause=1000&width=450&lines=Especialista+em+Automações;APIs+%26+Integrações;Estudante+de+Ciência+da+Computação" alt="Typing SVG" />
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FkYjYyYjY2Y2Y2Y2Y2Y2Y2Y2Y2Y2Y2Y2Y2Y2Y2Y2Y2Y/l0ExdMHUDKqn3WRPy/giphy.gif" width="25"> Estatísticas / My Stats
+### 👤 Sobre Mim
+
+Olá! Sou graduando em **Ciência da Computação** e especialista no desenvolvimento de automações inteligentes, integrações de sistemas e APIs eficientes. Meu foco principal é criar soluções robustas de backend, scripts de automação e integrações personalizadas (como Monday.com, WhatsApp, planilhas e PDFs) que otimizam processos e geram valor real para negócios.
+
+* 🔭 **Foco de Atuação:** Desenvolvimento de automações personalizadas (Python/Node.js), integração de APIs e manipulação inteligente de dados (PDFs, XLS, bancos de dados).
+* 🎓 **Formação:** Graduando em Ciência da Computação.
+* ⚡ **Curiosidade:** Minha jornada na programação começou de forma clássica com a linguagem C.
+
+---
+
+### 🛠️ Tecnologias & Habilidades
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NicholassweetDev&background=0d1117&border=30363d&fire=ff9f1c&ring=ff9f1c&currStreakLabel=ff9f1c&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak Stats" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,php&theme=dark" alt="Linguagens de Programação" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mysql,git,bash,figma,html,css&theme=dark" alt="Bancos de Dados, Ferramentas e Frontend" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholassweetDev&layout=compact&bg_color=0d1117&title_color=ff9f1c&text_color=ffffff&border_color=30363d&langs_count=6" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/-ngrok-59C3FF?style=flat-square&logo=ngrok&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/-Monday.com-6C6CFF?style=flat-square&logo=mondaydotcom&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="25" />
 </p>
 
 ---
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px"> Contato
+### 🚀 Projetos em Destaque
+
+#### 🤖 [Automação de Boas-Vindas](https://github.com/NicholassweetDev/automacao_boasvindas)
+*Desenvolvimento de um sistema automatizado em Python com Docker para fluxos de onboarding e mensagens de boas-vindas.*
+* **Tecnologias:** Python, Docker, Integração de APIs.
+
+#### 📄 [Leitura e Transcrição Inteligente de PDFs](https://github.com/NicholassweetDev/pdf-transcription-monday-automation) *(Repositório Privado)*
+*Automação robusta desenvolvida para a Corretora Texas, responsável por ler, transcrever e estruturar dados de arquivos PDF diretamente para a plataforma Monday.com.*
+* **Tecnologias:** Python, Monday.com API, Processamento de PDFs.
+
+#### 📊 [Analisador de PDF para XLS](https://github.com/NicholassweetDev/Analisador-de-pdf-para-xls) *(Repositório Privado)*
+*Script inteligente focado em extrair dados complexos de relatórios em formato PDF e convertê-los de forma limpa e estruturada em planilhas Excel (XLS).*
+* **Tecnologias:** Python, Extração de Dados, Pandas.
+
+---
+
+### 📊 Estatísticas
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicholassaulossweet/" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  <a href="https://github.com/NicholassweetDev">
+    <img align="center" src="https://streak-stats.demolab.com/?user=NicholassweetDev&background=0d1117&border=30363d&fire=ff9f1c&ring=ff9f1c&currStreakLabel=ff9f1c&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:Nicholassaulo@gmail.com" target="_blank" title="Gmail">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/NicholassweetDev" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  <br><br>
+  <a href="https://github.com/NicholassweetDev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholassweetDev&layout=compact&bg_color=0d1117&title_color=ff9f1c&text_color=ffffff&border_color=30363d&langs_count=6" alt="Top Languages" />
   </a>
 </p>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="120"/>
-</p>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+### ✉️ Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicholassaulossweet/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:Nicholassaulo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
