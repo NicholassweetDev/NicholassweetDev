@@ -33,22 +33,6 @@ Olá! Sou graduando em **Ciência da Computação** e especialista no desenvolvi
 
 ---
 
-### 🚀 Projetos em Destaque
-
-#### 🤖 [Automação de Boas-Vindas](https://github.com/NicholassweetDev/automacao_boasvindas)
-*Desenvolvimento de um sistema automatizado em Python com Docker para fluxos de onboarding e mensagens de boas-vindas.*
-* **Tecnologias:** Python, Docker, Integração de APIs.
-
-#### 📄 [Leitura e Transcrição Inteligente de PDFs](https://github.com/NicholassweetDev/pdf-transcription-monday-automation) *(Repositório Privado)*
-*Automação robusta desenvolvida para a Corretora Texas, responsável por ler, transcrever e estruturar dados de arquivos PDF diretamente para a plataforma Monday.com.*
-* **Tecnologias:** Python, Monday.com API, Processamento de PDFs.
-
-#### 📊 [Analisador de PDF para XLS](https://github.com/NicholassweetDev/Analisador-de-pdf-para-xls) *(Repositório Privado)*
-*Script inteligente focado em extrair dados complexos de relatórios em formato PDF e convertê-los de forma limpa e estruturada em planilhas Excel (XLS).*
-* **Tecnologias:** Python, Extração de Dados, Pandas.
-
----
-
 ### 📊 Estatísticas
 
 <p align="center">
