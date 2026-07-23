@@ -13,6 +13,7 @@ Olá! Sou graduando em **Ciência da Computação** e especialista no desenvolvi
 - 🔭 **Foco de Atuação:** Automações personalizadas (Python/Node.js), integração de APIs e manipulação inteligente de dados (PDFs, XLS, bancos de dados).
 - 🎓 **Formação:** Graduando em Ciência da Computação.
 - 🌱 **Aprendendo agora:** Aprofundando em arquitetura de APIs e containerização com Docker.
+- 🖥️ **Infraestrutura:** Configurei e administro um servidor próprio com Ubuntu Server.
 - ⚡ **Curiosidade:** Minha jornada na programação começou de forma clássica com a linguagem C.
 - 💬 **Fale comigo sobre:** automações, integração de sistemas e otimização de processos.
 
@@ -22,34 +23,54 @@ Olá! Sou graduando em **Ciência da Computação** e especialista no desenvolvi
 
 <table align="center">
   <tr>
-    <td align="center"><strong>Backend & Linguagens</strong></td>
+    <td align="center"><strong>Linguagens</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,php&theme=dark" alt="Backend e Linguagens" />
+      <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,php&theme=dark" alt="Linguagens" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Frontend</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,figma&theme=dark" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" alt="Frontend" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Dados & DevOps</strong></td>
+    <td align="center"><strong>Backend &amp; Bancos de Dados</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql,docker,git,bash&theme=dark" alt="Dados e DevOps" />
+      <img src="https://skillicons.dev/icons?i=nodejs,prisma,mysql,sqlite&theme=dark" alt="Backend e Bancos de Dados" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>DevOps &amp; Ferramentas</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,git,bash&theme=dark" alt="DevOps e Ferramentas" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Sistemas Operacionais</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,arch&theme=dark" alt="Sistemas Operacionais" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <strong>Integrações & Ferramentas</strong>
+  <strong>🖥️ Servidores & Distros</strong>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" height="25" />
+</p>
+
+<p align="center">
+  <strong>🔗 Integrações & Ferramentas</strong>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Monday.com-6C6CFF?style=flat-square&logo=mondaydotcom&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-ngrok-59C3FF?style=flat-square&logo=ngrok&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="25" />
 </p>
 
 ---
@@ -57,18 +78,8 @@ Olá! Sou graduando em **Ciência da Computação** e especialista no desenvolvi
 ### 📊 Estatísticas
 
 <p align="center">
-  <img align="center" src="https://github-stats-extended.vercel.app/api?username=NicholassweetDev&show_icons=true&count_private=true&bg_color=0d1117&title_color=ff9f1c&icon_color=ff9f1c&text_color=ffffff&border_color=30363d" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <a href="https://github.com/NicholassweetDev">
     <img align="center" src="https://streak-stats.demolab.com/?user=NicholassweetDev&background=0d1117&border=30363d&fire=ff9f1c&ring=ff9f1c&currStreakLabel=ff9f1c&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NicholassweetDev">
-    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NicholassweetDev&layout=compact&count_private=true&bg_color=0d1117&title_color=ff9f1c&text_color=ffffff&border_color=30363d&langs_count=6" alt="Top Languages" />
   </a>
 </p>
 
