@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF9F1C&center=true&vCenter=true&pause=1000&width=450&lines=Especialista+em+Automa%C3%A7%C3%B5es;APIs+%26+Integra%C3%A7%C3%B5es;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NicholassweetDev&label=Visitas+no+perfil&color=ff9f1c&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ### 👤 Sobre Mim
@@ -61,7 +57,7 @@ Olá! Sou graduando em **Ciência da Computação** e especialista no desenvolvi
 ### 📊 Estatísticas
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NicholassweetDev&show_icons=true&count_private=true&bg_color=0d1117&title_color=ff9f1c&icon_color=ff9f1c&text_color=ffffff&border_color=30363d" alt="GitHub Stats" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=NicholassweetDev&show_icons=true&count_private=true&bg_color=0d1117&title_color=ff9f1c&icon_color=ff9f1c&text_color=ffffff&border_color=30363d" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -72,7 +68,7 @@ Olá! Sou graduando em **Ciência da Computação** e especialista no desenvolvi
 
 <p align="center">
   <a href="https://github.com/NicholassweetDev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicholassweetDev&layout=compact&count_private=true&bg_color=0d1117&title_color=ff9f1c&text_color=ffffff&border_color=30363d&langs_count=6" alt="Top Languages" />
+    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NicholassweetDev&layout=compact&count_private=true&bg_color=0d1117&title_color=ff9f1c&text_color=ffffff&border_color=30363d&langs_count=6" alt="Top Languages" />
   </a>
 </p>
 
