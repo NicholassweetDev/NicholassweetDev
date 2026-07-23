@@ -25,13 +25,13 @@ Olá! Sou graduando em **Ciência da Computação** e especialista no desenvolvi
   <tr>
     <td align="center"><strong>Linguagens</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,php&theme=dark" alt="Linguagens" />
+      <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,php,dart,powershell&theme=dark" alt="Linguagens" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Frontend</strong></td>
+    <td align="center"><strong>Frontend &amp; Mobile</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark" alt="Frontend" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css,figma&theme=dark" alt="Frontend e Mobile" />
     </td>
   </tr>
   <tr>
