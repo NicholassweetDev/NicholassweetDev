@@ -22,54 +22,6 @@ Olá! Sou graduando em **Ciência da Computação** e especialista no desenvolvi
 
 ---
 
-### 🚀 Projetos em Destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Nome do Projeto</h3>
-      <p align="center">Breve descrição do que a automação faz e o problema que resolve (ex.: integração Monday.com + WhatsApp para notificações automáticas).</p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Ver_Projeto-FF9F1C?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto" /></a>
-      </p>
-      <p align="center">
-        <code>Python</code> <code>API</code> <code>Docker</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📱 Nome do Projeto</h3>
-      <p align="center">Breve descrição (ex.: bot de atendimento no WhatsApp com respostas automáticas e integração a planilhas).</p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Ver_Projeto-FF9F1C?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto" /></a>
-      </p>
-      <p align="center">
-        <code>Node.js</code> <code>WhatsApp API</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📄 Nome do Projeto</h3>
-      <p align="center">Breve descrição (ex.: extração e processamento inteligente de dados de PDFs e planilhas XLS).</p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Ver_Projeto-FF9F1C?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projeto" /></a>
-      </p>
-      <p align="center">
-        <code>Python</code> <code>Pandas</code> <code>PDF</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">➕ Mais projetos</h3>
-      <p align="center">Explore o restante dos meus repositórios e contribuições.</p>
-      <p align="center">
-        <a href="https://github.com/NicholassweetDev?tab=repositories"><img src="https://img.shields.io/badge/Ver_Todos-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Ver Todos" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🛠️ Tecnologias & Habilidades
 
 <table align="center">
