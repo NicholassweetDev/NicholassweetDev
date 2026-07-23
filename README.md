@@ -10,7 +10,9 @@
 
 Olá! Sou graduando em **Ciência da Computação** e especialista no desenvolvimento de **automações inteligentes**, integrações de sistemas e APIs eficientes. Meu foco é criar soluções robustas de backend, scripts de automação e integrações personalizadas (Monday.com, WhatsApp, planilhas e PDFs) que otimizam processos e geram valor real para negócios.
 
-- 🔭 **Foco de Atuação:** Automações personalizadas (Python/Node.js), integração de APIs e manipulação inteligente de dados (PDFs, XLS, bancos de dados).
+- 🔭 **Foco de Atuação:** RPA e automações personalizadas (Python/Node.js), integração de APIs e manipulação inteligente de dados.
+- 🤖 **IA aplicada:** Integro modelos de linguagem (LLMs) às minhas automações para processar e gerar dados de forma inteligente.
+- 🌐 **Também construo:** aplicações web (landing pages e sites) e apps mobile com Flutter.
 - 🎓 **Formação:** Graduando em Ciência da Computação.
 - 🌱 **Aprendendo agora:** Aprofundando em arquitetura de APIs e containerização com Docker.
 - 🖥️ **Infraestrutura:** Configurei e administro um servidor próprio com Ubuntu Server.
