@@ -19,6 +19,16 @@ Olá! Sou graduando em **Ciência da Computação** e especialista no desenvolvi
 
 ---
 
+### 📊 Estatísticas
+
+<p align="center">
+  <a href="https://github.com/NicholassweetDev">
+    <img align="center" src="https://streak-stats.demolab.com/?user=NicholassweetDev&background=0d1117&border=30363d&fire=ff9f1c&ring=ff9f1c&currStreakLabel=ff9f1c&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Tecnologias & Habilidades
 
 <table align="center">
@@ -71,16 +81,6 @@ Olá! Sou graduando em **Ciência da Computação** e especialista no desenvolvi
   <img src="https://img.shields.io/badge/-WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-ngrok-59C3FF?style=flat-square&logo=ngrok&logoColor=white" height="25" />
-</p>
-
----
-
-### 📊 Estatísticas
-
-<p align="center">
-  <a href="https://github.com/NicholassweetDev">
-    <img align="center" src="https://streak-stats.demolab.com/?user=NicholassweetDev&background=0d1117&border=30363d&fire=ff9f1c&ring=ff9f1c&currStreakLabel=ff9f1c&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak" />
-  </a>
 </p>
 
 ---
