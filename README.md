@@ -15,9 +15,7 @@ Olá! Sou graduando em **Ciência da Computação** e especialista no desenvolvi
 - 🌐 **Também construo:** aplicações web (landing pages e sites) e apps mobile com Flutter.
 - 🎓 **Formação:** Graduando em Ciência da Computação.
 - 🌱 **Aprendendo agora:** Aprofundando em arquitetura de APIs e containerização com Docker.
-- 🖥️ **Infraestrutura:** Configurei e administro um servidor próprio com Ubuntu Server.
 - ⚡ **Curiosidade:** Minha jornada na programação começou de forma clássica com a linguagem C.
-- 💬 **Fale comigo sobre:** automações, integração de sistemas e otimização de processos.
 
 ---
 
