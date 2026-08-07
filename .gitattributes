@@ -1,0 +1,8 @@
+# O runner do GitHub Actions é Linux. Um \r vindo do Windows no fim do shebang
+# faz o script falhar com "bad interpreter", então força LF nesses arquivos.
+*.sh  text eol=lf
+*.yml text eol=lf
+*.txt text eol=lf
+
+# SVGs são texto, mas gerados por API — normalizar evita diff falso.
+*.svg text eol=lf
