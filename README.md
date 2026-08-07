@@ -1,7 +1,7 @@
 <h1 align="center">Nicholas Sweet dos Santos</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF9F1C&center=true&vCenter=true&pause=1000&width=450&lines=Especialista+em+Automa%C3%A7%C3%B5es;APIs+%26+Integra%C3%A7%C3%B5es;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="assets/typing.svg" alt="Especialista em Automações | APIs & Integrações | Estudante de Ciência da Computação" />
 </p>
 
 ---
@@ -23,7 +23,7 @@ Olá! Sou graduando em **Ciência da Computação** e especialista no desenvolvi
 
 <p align="center">
   <a href="https://github.com/NicholassweetDev">
-    <img align="center" src="https://streak-stats.demolab.com/?user=NicholassweetDev&background=0d1117&border=30363d&fire=ff9f1c&ring=ff9f1c&currStreakLabel=ff9f1c&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak" />
+    <img align="center" src="assets/streak.svg" alt="Sequência de contribuições no GitHub" />
   </a>
 </p>
 
@@ -35,31 +35,31 @@ Olá! Sou graduando em **Ciência da Computação** e especialista no desenvolvi
   <tr>
     <td align="center"><strong>Linguagens</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,php,dart,powershell&theme=dark" alt="Linguagens" />
+      <img src="assets/skills-langs.svg" alt="Linguagens" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Frontend &amp; Mobile</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css,figma&theme=dark" alt="Frontend e Mobile" />
+      <img src="assets/skills-frontend.svg" alt="Frontend e Mobile" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Backend &amp; Bancos de Dados</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,prisma,mysql,sqlite&theme=dark" alt="Backend e Bancos de Dados" />
+      <img src="assets/skills-backend.svg" alt="Backend e Bancos de Dados" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>DevOps &amp; Ferramentas</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,git,bash&theme=dark" alt="DevOps e Ferramentas" />
+      <img src="assets/skills-devops.svg" alt="DevOps e Ferramentas" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Sistemas Operacionais</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,arch&theme=dark" alt="Sistemas Operacionais" />
+      <img src="assets/skills-os.svg" alt="Sistemas Operacionais" />
     </td>
   </tr>
 </table>

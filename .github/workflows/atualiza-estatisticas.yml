@@ -1,0 +1,36 @@
+name: Atualiza estatísticas do README
+
+on:
+  schedule:
+    # 06:00 e 18:00 UTC = 03:00 e 15:00 em Brasília.
+    # Duas vezes ao dia para ter uma segunda chance se a API estiver fora.
+    - cron: '0 6,18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualiza-estatisticas
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Baixar as imagens (mantém o cache se a API falhar)
+        run: bash .github/scripts/baixar-assets.sh
+
+      - name: Commitar o que mudou
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets
+          if git diff --staged --quiet; then
+            echo 'Nenhuma imagem mudou.'
+          else
+            git commit -m 'chore: atualiza imagens de estatísticas do README'
+            git push
+          fi

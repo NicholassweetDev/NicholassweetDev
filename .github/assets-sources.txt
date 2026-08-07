@@ -1,0 +1,12 @@
+# Imagens externas que são cacheadas dentro do repositório.
+# Formato:  nome-do-arquivo|url        (uma por linha, sem espaços em volta do |)
+# O resultado vai para assets/<nome-do-arquivo> e o README aponta para lá.
+# Para adicionar uma imagem nova, basta acrescentar uma linha aqui.
+
+streak.svg|https://streak-stats.demolab.com/?user=NicholassweetDev&background=0d1117&border=30363d&fire=ff9f1c&ring=ff9f1c&currStreakLabel=ff9f1c&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e
+typing.svg|https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF9F1C&center=true&vCenter=true&pause=1000&width=450&lines=Especialista+em+Automa%C3%A7%C3%B5es;APIs+%26+Integra%C3%A7%C3%B5es;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o
+skills-langs.svg|https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,php,dart,powershell&theme=dark
+skills-frontend.svg|https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css,figma&theme=dark
+skills-backend.svg|https://skillicons.dev/icons?i=nodejs,prisma,mysql,sqlite&theme=dark
+skills-devops.svg|https://skillicons.dev/icons?i=docker,git,bash&theme=dark
+skills-os.svg|https://skillicons.dev/icons?i=windows,linux,ubuntu,arch&theme=dark
