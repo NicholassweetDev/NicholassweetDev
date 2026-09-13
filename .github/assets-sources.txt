@@ -3,8 +3,10 @@
 # O resultado vai para assets/<nome-do-arquivo> e o README aponta para lá.
 # Para adicionar uma imagem nova, basta acrescentar uma linha aqui.
 
-streak.svg|https://streak-stats.demolab.com/?user=NicholassweetDev&background=0d1117&border=30363d&fire=ff9f1c&ring=ff9f1c&currStreakLabel=ff9f1c&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e
-typing.svg|https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF9F1C&center=true&vCenter=true&pause=1000&width=450&lines=Especialista+em+Automa%C3%A7%C3%B5es;APIs+%26+Integra%C3%A7%C3%B5es;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o
+header.svg|https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,100:1E3A8A&height=200&section=header&text=Nicholas%20Sweet%20dos%20Santos&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Freelancer%20%E2%80%A2%20Automa%C3%A7%C3%B5es%20%E2%80%A2%20Websites%20%E2%80%A2%20Integra%C3%A7%C3%B5es&descSize=18&descAlignY=56&animation=fadeIn
+footer.svg|https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0B1D3A&height=110&section=footer
+streak.svg|https://streak-stats.demolab.com/?user=NicholassweetDev&locale=pt_BR&background=0b1d3a&border=1e3a8a&stroke=1e3a8a&fire=3b82f6&ring=3b82f6&currStreakLabel=60a5fa&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e
+typing.svg|https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&color=1F6FEB&center=true&vCenter=true&pause=1000&width=560&lines=Freelancer+em+Automa%C3%A7%C3%B5es+%26+Websites;Especialista+em+Automa%C3%A7%C3%B5es+%26+RPA;APIs%2C+Integra%C3%A7%C3%B5es+%26+IA+aplicada;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o
 skills-langs.svg|https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,php,dart,powershell&theme=dark
 skills-frontend.svg|https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css,figma&theme=dark
 skills-backend.svg|https://skillicons.dev/icons?i=nodejs,prisma,mysql,sqlite&theme=dark
