@@ -7,8 +7,9 @@ header.svg|https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,100:
 footer.svg|https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0B1D3A&height=110&section=footer
 streak.svg|https://streak-stats.demolab.com/?user=NicholassweetDev&locale=pt_BR&background=0b1d3a&border=1e3a8a&stroke=1e3a8a&fire=3b82f6&ring=3b82f6&currStreakLabel=60a5fa&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e
 typing.svg|https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&color=1F6FEB&center=true&vCenter=true&pause=1000&width=560&lines=Freelancer+em+Automa%C3%A7%C3%B5es+%26+Websites;Especialista+em+Automa%C3%A7%C3%B5es+%26+RPA;APIs%2C+Integra%C3%A7%C3%B5es+%26+IA+aplicada;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o
-skills-langs.svg|https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,php,dart,powershell&theme=dark
+skills-langs.svg|https://skillicons.dev/icons?i=python,ts,js,dart,bash,powershell,c,cpp&theme=dark
 skills-frontend.svg|https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css,figma&theme=dark
-skills-backend.svg|https://skillicons.dev/icons?i=nodejs,prisma,mysql,sqlite&theme=dark
+skills-backend.svg|https://skillicons.dev/icons?i=nodejs,prisma,docker,postgres,redis,mysql,sqlite&theme=dark
 skills-devops.svg|https://skillicons.dev/icons?i=docker,git,bash&theme=dark
-skills-os.svg|https://skillicons.dev/icons?i=windows,linux,ubuntu,arch&theme=dark
+# skills-os.svg NÃO fica aqui: o skillicons não tem Fedora (escreve "undefined" no lugar do ícone),
+# então assets/skills-os.svg é um arquivo fixo, montado à mão com o Fedora no mesmo estilo.
